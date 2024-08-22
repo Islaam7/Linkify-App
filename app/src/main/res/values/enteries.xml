@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="urls">
+        <item>https://www.instagram.com/eslam_fares_787/</item>
+        <item>https://www.linkedin.com/in/islam-fares-25a6b6263/</item>
+        <item>https://www.facebook.com/eslamfares.eslam.1/</item>
+        <item>https://github.com/Islaam7/Android-Calculator-App</item>
+        <item>sppaark.wordpress.com</item>
+        <item>https://x.com/IslamFares777</item>
+        <item>https://wa.me/+201126476686</item>
+    </string-array>
+
+     <string-array name="titles">
+        <item>Visit Instagram</item>
+        <item>Check LinkedIN</item>
+        <item>Open Facebook</item>
+        <item>See Git Hub Profile</item>
+        <item>Go To My Blog</item>
+        <item>View Twitter</item>
+        <item>Message On WhatsApp</item>
+    </string-array>
+</resources>
