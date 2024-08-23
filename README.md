@@ -6,7 +6,6 @@ This repository contains the source code for Link-App, a simple Android app that
 # Features
 Manage all your important links in one app.
 User-friendly and clean interface.
-Supports both light and dark modes.
 Quick access to social media and professional profiles.
 Lightweight and efficient.
 # Getting Started
