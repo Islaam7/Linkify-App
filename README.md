@@ -1,1 +1,1 @@
-# Linkify-App
+# Link-App
